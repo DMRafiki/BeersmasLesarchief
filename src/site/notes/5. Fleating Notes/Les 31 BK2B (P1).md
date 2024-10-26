@@ -9,4 +9,4 @@
 - Uitleg nieuwe opdracht (10m)
 - [[5. Fleating Notes/Landkeuze BK2B\|EU-Land kiezen]] (5m)
 - Voorbeeld (5m)
-- [[5. Fleating Notes/Presentatie EU-Land Stap voor Stap\|Samen starten]] (15m)
+- [[5. Fleating Notes/Presentatie EU-Land Stap voor Stap BK2B\|Samen starten]] (15m)

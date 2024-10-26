@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/4. Lists/Lestabellen/Beersma's Lesarchief/","tags":["gardenEntry"]}
 ---
 
-# Welkom bij Beersma
-
 ## Periode 2, Leerjaar 24/25
 
 | Klas  | Lestabel                                | Onderwerp Periode 2 |
