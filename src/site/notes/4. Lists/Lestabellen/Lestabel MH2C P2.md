@@ -6,9 +6,9 @@
 
 | Week | Lesnummer     | Datum          | Link naar les              | Bijzonderheden |
 | ---- | ------------- | -------------- | -------------------------- | -------------- |
-| 0    | Mentorles     | 2024-10-28     |                            |                |
-| 0    | Les 0         | 2024-10-30     |                            |                |
-| 0    | Les 0         | 2024-11-01     |                            |                |
+| 0    | Mentorles     | 2024-10-28     | [[Mentorles 0 MH2C (P2)\|Mentorles 0 MH2C (P2)]]  |                |
+| 0    | Les 0         | 2024-10-30     | [[5. Fleating Notes/Les 0A MH2C (P2)\|Les 0A MH2C (P2)]]       |                |
+| 0    | Les 0         | 2024-11-01     | [[Les 0B MH2C (P2)\|Les 0B MH2C (P2)]]       |                |
 | 1    | Mentorles     | 2024-11-04     | [[Mentorles 1 MH2C (P2)\|Mentorles 1 MH2C (P2)]]  |                |
 | 1    | Les 1         | 2024-11-06     | [[Les 1 MH2C (P2)\|Les 1 MH2C (P2)]]        |                |
 | 1    | Les 2         | 2024-11-08     | [[Les 2 MH2C (P2)\|Les 2 MH2C (P2)]]        |                |

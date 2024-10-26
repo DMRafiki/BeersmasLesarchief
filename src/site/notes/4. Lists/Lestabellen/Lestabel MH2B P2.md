@@ -6,8 +6,8 @@
 
 | Week | Lesnummer  | Datum          | Link naar les        | Bijzonderheden |
 | ---- | ---------- | -------------- | -------------------- | -------------- |
-| 0    | Les 0      | 2024-10-28     |                      |                |
-| 0    | Les 0      | 2024-10-30     |                      |                |
+| 0    | Les 0      | 2024-10-28     | [[5. Fleating Notes/Les 0A MH2B (P2)\|Les 0A MH2B (P2)]] |                |
+| 0    | Les 0      | 2024-10-30     | [[Les 0B MH2B (P2)\|Les 0B MH2B (P2)]] |                |
 | 1    | Les 1      | 2024-11-04     | [[Les 1 MH2B (P2)\|Les 1 MH2B (P2)]]  |                |
 | 1    | Les 2      | 2024-11-06     | [[Les 2 MH2B (P2)\|Les 2 MH2B (P2)]]  |                |
 | 2    | Les 3      | 2024-11-11     | [[Les 3 MH2B (P2)\|Les 3 MH2B (P2)]]  |                |
